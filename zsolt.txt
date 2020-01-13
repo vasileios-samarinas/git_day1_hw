@@ -1,0 +1,2 @@
+"Teaching command line"
+"Teach programming"
